@@ -5,6 +5,8 @@ permalink: /README.md/
 ---
 ## EmergencyINDEX
 
+## 🚨 ↬ moved to [github.com/emergencyindex/emergencyindex.com](https://github.com/emergencyindex/emergencyindex.com)
+
 You can use the [editor on GitHub](https://github.com/edwardsharp/alveol.us/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
 
 Whenever someone commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the site (_limit of 10 builds an hour_). 
